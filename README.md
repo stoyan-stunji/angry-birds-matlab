@@ -13,6 +13,11 @@ Instalation:
 Inspiration:
 > www.youtube.com/watch?v=58TqJAzS9yU
 
+Future Additions and Bug Fixes:
+> Add a pig and highscore;
+> Fix a bug where by pressing the START button multiple times the bird object will fly endlessly;
+> Fix a bug with the gravity.
+
 Picture:
 
 [![screenshot-1.png](https://i.postimg.cc/0Q4yxh43/screenshot-1.png)](https://postimg.cc/34gTFfYC)
