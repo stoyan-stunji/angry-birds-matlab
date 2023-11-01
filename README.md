@@ -11,7 +11,8 @@ Instalation:
 > Run the script.
 
 Inspiration:
-> https://www.youtube.com/watch?v=58TqJAzS9yU
+> www.youtube.com/watch?v=58TqJAzS9yU
 
 Picture:
+
 [![screenshot-1.png](https://i.postimg.cc/0Q4yxh43/screenshot-1.png)](https://postimg.cc/34gTFfYC)
