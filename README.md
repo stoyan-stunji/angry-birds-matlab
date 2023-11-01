@@ -16,7 +16,8 @@ Inspiration:
 Future Additions and Bug Fixes:
 + Add a pig and highscore;
 + Fix a bug where by pressing the START button multiple times the bird object will fly endlessly;
-+ Fix a bug with the gravity.
++ Fix a bug related to the gravity;
++ Fix a bug related to the function 'undefined'.
 
 Picture:
 
