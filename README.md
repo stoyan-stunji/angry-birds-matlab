@@ -7,8 +7,9 @@ Functions:
 + The bird object is based on the character Red from the Angry Birds franchise.
 
 Instalation:
-+ Simply download the two files and place them in the folder chosen for starting .m files;
-+ Run the script.
++ Simply download the two files and place them in the folder chosen for running .m files/scripts;
++ Example: PS C:\Users\User\> cd "C:\Program Files\MATLAB\Version\bin" 
++          PS C:\Program Files\MATLAB\Version\bin .\matlab.exe .\untitled.m
 
 Inspiration:
 + www.youtube.com/watch?v=58TqJAzS9yU
