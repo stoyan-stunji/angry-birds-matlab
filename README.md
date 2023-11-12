@@ -8,8 +8,8 @@ Functions:
 
 Instalation:
 + Simply download the two files and place them in the folder chosen for running .m files/scripts;
-+ Example: PS C:\Users\User\> cd "C:\Program Files\MATLAB\Version\bin" 
-+          PS C:\Program Files\MATLAB\Version\bin .\matlab.exe .\untitled.m
++     PS C:\Users\User\> cd "C:\Program Files\MATLAB\Version\bin" 
++     PS C:\Program Files\MATLAB\Version\bin .\matlab.exe .\untitled.m
 
 Inspiration:
 + www.youtube.com/watch?v=58TqJAzS9yU
