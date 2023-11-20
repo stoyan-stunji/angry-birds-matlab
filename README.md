@@ -6,7 +6,7 @@ Functions:
 + By pressing the START button, the bird object will be launched. After a certain amounth of time, the bird object will moved back to its original starting point (0, 70);
 + The bird object is based on the character Red from the Angry Birds franchise.
 
-Instalation:
+Installation:
 +     Simply download the two files and place them in the folder chosen for running .m files/scripts;
 +     PS C:\Users\User\> cd "C:\Program Files\MATLAB\Version\bin" 
 +     PS C:\Program Files\MATLAB\Version\bin .\matlab.exe .\untitled.m
