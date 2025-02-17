@@ -1,5 +1,5 @@
 ## Проект:
-Много проста интерпретация на популярната мобилна игра Angry Birds, създадена в MatLab.
+- Много проста интерпретация на популярната мобилна игра Angry Birds, създадена в MatLab.
 
 ## Функции:
 - Потребителят може да избере началната стартова точка на обекта „птица“, като просто въведе желаните стойности в полетата X и Y и натисне бутона UPDATE;
@@ -22,4 +22,4 @@
 - [Quang Khai Tran - Matlab](www.youtube.com/watch?v=58TqJAzS9yU);
 - [Mr. STEM EDU TV - Octave Tutorial: Make Animation for Flying Angry Birds](www.youtube.com/watch?v=jIZoSWzf54A);
 
-![bird]()
+![bird](https://github.com/stoyan-stunji/angry-birds-matlab/blob/main/bird.png)
