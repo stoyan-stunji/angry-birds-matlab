@@ -13,13 +13,13 @@
 - PS C:\Program Files\MATLAB\Version\bin .\matlab.exe .\untitled.m
 
 ## Бъдещо развитие и усъвършенстване:
-> Добавяне на прасе и система за най-висок резултат;
-> Отстраняване на бъг, при който многократно натискане на бутона START кара обекта „птица“ да лети безкрайно;
-> Отстраняване на бъг, свързан с гравитацията;
-> Отстраняване на бъг, при който основната функция е с име 'untitled'.
+- Добавяне на прасе и система за най-висок резултат;
+- Отстраняване на бъг, при който многократно натискане на бутона START кара обекта „птица“ да лети безкрайно;
+- Отстраняване на бъг, свързан с гравитацията;
+- Отстраняване на бъг, при който основната функция е с име 'untitled'.
 
 ## Използвана литература:
-+ [Quang Khai Tran - Matlab](www.youtube.com/watch?v=58TqJAzS9yU);
-+ [Mr. STEM EDU TV - Octave Tutorial: Make Animation for Flying Angry Birds](www.youtube.com/watch?v=jIZoSWzf54A);
+- [Quang Khai Tran - Matlab](www.youtube.com/watch?v=58TqJAzS9yU);
+- [Mr. STEM EDU TV - Octave Tutorial: Make Animation for Flying Angry Birds](www.youtube.com/watch?v=jIZoSWzf54A);
 
 ![bird]()
