@@ -1,15 +1,17 @@
-A very simple interpretation of the popular mobile game Angry Birds made in MatLab.
+## Проект:
+Много проста интерпретация на популярната мобилна игра Angry Birds, създадена в MatLab.
 
-Functions:
-+ The user can choose the initial starting point of the bird object by simply writing in the desired values in the X and Y box, and pressing the UPDATE button;
-+  The user can choose the trajectory and the launch force of the bird object by moving the second point of the trajectory line in the designated box;
-+ By pressing the START button, the bird object will be launched. After a certain amounth of time, the bird object will moved back to its original starting point (0, 70);
-+ The bird object is based on the character Red from the Angry Birds franchise.
+## Функции:
+- Потребителят може да избере началната стартова точка на обекта „птица“, като просто въведе желаните стойности в полетата X и Y и натисне бутона UPDATE;
+- Потребителят може да избере траекторията и силата на изстрелване на обекта „птица“, като премести втората точка на линията на траекторията в обозначеното поле;
+- С натискане на бутона START обектът „птица“ ще бъде изстрелян. След определен период от време той ще се върне в първоначалната си стартова точка (0, 70);
+- Обектът „птица“ е базиран на героя Red от поредицата Angry Birds.
 
-Installation:
-+     Simply download the two files and place them in the folder chosen for running .m files/scripts;
-+     PS C:\Users\User\> cd "C:\Program Files\MATLAB\Version\bin" 
-+     PS C:\Program Files\MATLAB\Version\bin .\matlab.exe .\untitled.m
+## Инсталация:
+> Просто изтеглете двата файла и ги поставете в папката, избрана за изпълнение на .m файлове/скриптове;
+
+> PS C:\Users\User\> cd "C:\Program Files\MATLAB\Version\bin" 
+> PS C:\Program Files\MATLAB\Version\bin .\matlab.exe .\untitled.m
 
 Inspiration:
 + www.youtube.com/watch?v=58TqJAzS9yU
